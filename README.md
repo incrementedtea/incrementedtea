@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am Lucid, a (student) developer who is on github to learn and gain knowledge with the help of others.
+- I will be glad if you review my projects and tell me of anyway i could improve! ✨
+
+### This readme will update as i'll add projects on here.
